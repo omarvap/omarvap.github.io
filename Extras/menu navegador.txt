@@ -1,0 +1,6 @@
+ <a href="Location: Vista/index.php">Inicio</a>
+            <a href="../Plantilla/index.html">Portafolio</a>
+            <a href="#">Servicio</a>
+            <a href="#">Contacto</a>
+            <a href="#">Registrese</a>
+            <a href="#">Acerca de</a>
